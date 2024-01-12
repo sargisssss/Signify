@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Signify</string>
+    <string name="hello">Good Morning  👋</string>
+    <string name="name">Sargis Arakelyan</string>
+    <string name="lets_continue">Let\'s Continue Learning</string>
+    <string name="lets_you_in">Let\'s You In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account">Already Have An Account</string>
+    <string name="create_your_account">Create Your Account</string>
+</resources>
